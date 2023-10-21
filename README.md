@@ -1,2 +1,2 @@
-# TulaHackAccelerator2.0
-# Бот для клиники
+TulaHackAccelerator2.0
+Бот для клиники
